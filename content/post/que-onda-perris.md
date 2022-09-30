@@ -2,7 +2,7 @@
 author = "El pibe"
 date = 2022-09-30T22:50:53Z
 description = "Mi primer post!!"
-feature_image = ""
+feature_image = "/images/photo_2022-03-03_23-02-14.jpg"
 tags = ["hola", "hello hugo", "hello world"]
 title = "Hola amorcito soy goran"
 
