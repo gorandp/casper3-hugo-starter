@@ -2,6 +2,7 @@
 author = "El pibe"
 date = 2022-09-30T22:50:53Z
 description = "Mi primer post!!"
+draft = true
 feature_image = ""
 tags = ["hola", "hello hugo", "hello world"]
 title = "Que onda perris"
