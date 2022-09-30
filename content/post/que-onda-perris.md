@@ -4,7 +4,7 @@ date = 2022-09-30T22:50:53Z
 description = "Mi primer post!!"
 feature_image = ""
 tags = ["hola", "hello hugo", "hello world"]
-title = "Que onda perris"
+title = "Hola amorcito soy goran"
 
 +++
 Acá va mucho texto, así que agarrate.
